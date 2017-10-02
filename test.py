@@ -1,4 +1,5 @@
 print "hello" 
 print "How are things"
 print "Where are you"
-pritn "what are you doing"
+print "what are you doing"
+print "I am right here"
